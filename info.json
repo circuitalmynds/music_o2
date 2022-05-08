@@ -1,5 +1,11 @@
 {
     "available_space": true,
-    "files": [],
-    "total_size": 0.0
+    "files": [
+        {
+            "name": "Al Bowlly Ray Noble - Looking On The Bright Side Of Life 1932-EmqPOwQVbCM.mp4",
+            "path": "music_o2/videos/Al Bowlly Ray Noble - Looking On The Bright Side Of Life 1932-EmqPOwQVbCM.mp4",
+            "size": 3.24450816
+        }
+    ],
+    "total_size": 3.24450816
 }
