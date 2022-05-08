@@ -7,6 +7,11 @@
             "size": 3.24450816
         },
         {
+            "name": "Dave Brubeck - Koto Song-6vGX-B9Jo2U.mp4",
+            "path": "music_o2/videos/Dave Brubeck - Koto Song-6vGX-B9Jo2U.mp4",
+            "size": 24.190701568
+        },
+        {
             "name": "1930 Paul Whiteman - Happy Feet (Rhythm Boys, vocal)-M5r8u7h8y0E.mp4",
             "path": "music_o2/videos/1930 Paul Whiteman - Happy Feet (Rhythm Boys, vocal)-M5r8u7h8y0E.mp4",
             "size": 4.56039424
@@ -15,6 +20,11 @@
             "name": "Stabat Mater - Arjan van Dijk-pXa-Zms5uIQ.mp4",
             "path": "music_o2/videos/Stabat Mater - Arjan van Dijk-pXa-Zms5uIQ.mp4",
             "size": 18.338727936
+        },
+        {
+            "name": "Bei Mir Bist Du Schoen-DLEzcJREmhE.mp4",
+            "path": "music_o2/videos/Bei Mir Bist Du Schoen-DLEzcJREmhE.mp4",
+            "size": 3.3568276480000003
         },
         {
             "name": "Blur - Song 2-SSbBvKaM6sk.mp4",
@@ -32,5 +42,5 @@
             "size": 14.072605696
         }
     ],
-    "total_size": 52.51336192000001
+    "total_size": 80.060891136
 }
