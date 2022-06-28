@@ -1,66 +1,79 @@
 {
     "available_space": true,
-    "files": [
+    "content": [
         {
             "name": "Stabat Mater - Arjan van Dijk-pXa-Zms5uIQ.mp4",
-            "path": "music_o2/videos/Stabat Mater - Arjan van Dijk-pXa-Zms5uIQ.mp4",
-            "size": 18.338727936
+            "path": "o2/videos/Stabat Mater - Arjan van Dijk-pXa-Zms5uIQ.mp4",
+            "size": 18.338727936,
+            "url": "https://github.com/circuitalmynds/music_o2/blob/main/videos/Stabat Mater - Arjan van Dijk-pXa-Zms5uIQ.mp4?raw=true"
         },
         {
             "name": "João Gilberto - 34 - Discussão-H8TTIgWWo8E.mp4",
-            "path": "music_o2/videos/João Gilberto - 34 - Discussão-H8TTIgWWo8E.mp4",
-            "size": 2.754829312
+            "path": "o2/videos/João Gilberto - 34 - Discussão-H8TTIgWWo8E.mp4",
+            "size": 2.754829312,
+            "url": "https://github.com/circuitalmynds/music_o2/blob/main/videos/João Gilberto - 34 - Discussão-H8TTIgWWo8E.mp4?raw=true"
         },
         {
             "name": "Poolside - Shakedown Street-qUcHG_HW4nY.mp4",
-            "path": "music_o2/videos/Poolside - Shakedown Street-qUcHG_HW4nY.mp4",
-            "size": 5.101650944
+            "path": "o2/videos/Poolside - Shakedown Street-qUcHG_HW4nY.mp4",
+            "size": 5.101650944,
+            "url": "https://github.com/circuitalmynds/music_o2/blob/main/videos/Poolside - Shakedown Street-qUcHG_HW4nY.mp4?raw=true"
         },
         {
             "name": "Conjunto Primavera - Senti-OOuawaUiX8c.mp4",
-            "path": "music_o2/videos/Conjunto Primavera - Senti-OOuawaUiX8c.mp4",
-            "size": 13.253556224
+            "path": "o2/videos/Conjunto Primavera - Senti-OOuawaUiX8c.mp4",
+            "size": 13.253556224,
+            "url": "https://github.com/circuitalmynds/music_o2/blob/main/videos/Conjunto Primavera - Senti-OOuawaUiX8c.mp4?raw=true"
         },
         {
             "name": "1930 Paul Whiteman - Happy Feet (Rhythm Boys, vocal)-M5r8u7h8y0E.mp4",
-            "path": "music_o2/videos/1930 Paul Whiteman - Happy Feet (Rhythm Boys, vocal)-M5r8u7h8y0E.mp4",
-            "size": 4.56039424
+            "path": "o2/videos/1930 Paul Whiteman - Happy Feet (Rhythm Boys, vocal)-M5r8u7h8y0E.mp4",
+            "size": 4.56039424,
+            "url": "https://github.com/circuitalmynds/music_o2/blob/main/videos/1930 Paul Whiteman - Happy Feet (Rhythm Boys, vocal)-M5r8u7h8y0E.mp4?raw=true"
         },
         {
             "name": "Al Bowlly Ray Noble - Looking On The Bright Side Of Life 1932-EmqPOwQVbCM.mp4",
-            "path": "music_o2/videos/Al Bowlly Ray Noble - Looking On The Bright Side Of Life 1932-EmqPOwQVbCM.mp4",
-            "size": 3.24450816
+            "path": "o2/videos/Al Bowlly Ray Noble - Looking On The Bright Side Of Life 1932-EmqPOwQVbCM.mp4",
+            "size": 3.24450816,
+            "url": "https://github.com/circuitalmynds/music_o2/blob/main/videos/Al Bowlly Ray Noble - Looking On The Bright Side Of Life 1932-EmqPOwQVbCM.mp4?raw=true"
         },
         {
             "name": "Bei Mir Bist Du Schoen-DLEzcJREmhE.mp4",
-            "path": "music_o2/videos/Bei Mir Bist Du Schoen-DLEzcJREmhE.mp4",
-            "size": 3.3568276480000003
+            "path": "o2/videos/Bei Mir Bist Du Schoen-DLEzcJREmhE.mp4",
+            "size": 3.3568276480000003,
+            "url": "https://github.com/circuitalmynds/music_o2/blob/main/videos/Bei Mir Bist Du Schoen-DLEzcJREmhE.mp4?raw=true"
         },
         {
             "name": "João Gilberto - 16 - Este Seu Olhar-MVfgS4zPp9I.mp4",
-            "path": "music_o2/videos/João Gilberto - 16 - Este Seu Olhar-MVfgS4zPp9I.mp4",
-            "size": 3.2052418560000002
+            "path": "o2/videos/João Gilberto - 16 - Este Seu Olhar-MVfgS4zPp9I.mp4",
+            "size": 3.2052418560000002,
+            "url": "https://github.com/circuitalmynds/music_o2/blob/main/videos/João Gilberto - 16 - Este Seu Olhar-MVfgS4zPp9I.mp4?raw=true"
         },
         {
             "name": "Blur - Song 2-SSbBvKaM6sk.mp4",
-            "path": "music_o2/videos/Blur - Song 2-SSbBvKaM6sk.mp4",
-            "size": 9.091884032000001
+            "path": "o2/videos/Blur - Song 2-SSbBvKaM6sk.mp4",
+            "size": 9.091884032000001,
+            "url": "https://github.com/circuitalmynds/music_o2/blob/main/videos/Blur - Song 2-SSbBvKaM6sk.mp4?raw=true"
         },
         {
             "name": "Patricia JANEČKOVÁ - 'Les oiseaux dans la charmille' (Jacques Offenbach - Les contes d' Hoffmann)-mVUpKIFHqZk.mp4",
-            "path": "music_o2/videos/Patricia JANEČKOVÁ - 'Les oiseaux dans la charmille' (Jacques Offenbach - Les contes d' Hoffmann)-mVUpKIFHqZk.mp4",
-            "size": 37.050863616
+            "path": "o2/videos/Patricia JANEČKOVÁ - 'Les oiseaux dans la charmille' (Jacques Offenbach - Les contes d' Hoffmann)-mVUpKIFHqZk.mp4",
+            "size": 37.050863616,
+            "url": "https://github.com/circuitalmynds/music_o2/blob/main/videos/Patricia JANEČKOVÁ - 'Les oiseaux dans la charmille' (Jacques Offenbach - Les contes d' Hoffmann)-mVUpKIFHqZk.mp4?raw=true"
         },
         {
             "name": "Franz Liszt   Hungarian Rhapsody no 2 The Perfect Version-FT36za3Gyos.mp4",
-            "path": "music_o2/videos/Franz Liszt   Hungarian Rhapsody no 2 The Perfect Version-FT36za3Gyos.mp4",
-            "size": 14.072605696
+            "path": "o2/videos/Franz Liszt   Hungarian Rhapsody no 2 The Perfect Version-FT36za3Gyos.mp4",
+            "size": 14.072605696,
+            "url": "https://github.com/circuitalmynds/music_o2/blob/main/videos/Franz Liszt   Hungarian Rhapsody no 2 The Perfect Version-FT36za3Gyos.mp4?raw=true"
         },
         {
             "name": "Dave Brubeck - Koto Song-6vGX-B9Jo2U.mp4",
-            "path": "music_o2/videos/Dave Brubeck - Koto Song-6vGX-B9Jo2U.mp4",
-            "size": 24.190701568
+            "path": "o2/videos/Dave Brubeck - Koto Song-6vGX-B9Jo2U.mp4",
+            "size": 24.190701568,
+            "url": "https://github.com/circuitalmynds/music_o2/blob/main/videos/Dave Brubeck - Koto Song-6vGX-B9Jo2U.mp4?raw=true"
         }
     ],
+    "ready_to_push": true,
     "total_size": 138.22179123200002
 }
