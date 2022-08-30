@@ -1,79 +1,280 @@
 {
-    "available_space": true,
+    "available_space": false,
     "content": [
         {
+            "id": "pXa-Zms5uIQ",
             "name": "Stabat Mater - Arjan van Dijk-pXa-Zms5uIQ.mp4",
             "path": "o2/videos/Stabat Mater - Arjan van Dijk-pXa-Zms5uIQ.mp4",
-            "size": 18.338727936,
+            "size": 17.908914,
             "url": "https://github.com/circuitalmynds/music_o2/blob/main/videos/Stabat Mater - Arjan van Dijk-pXa-Zms5uIQ.mp4?raw=true"
         },
         {
+            "id": "H8TTIgWWo8E",
             "name": "João Gilberto - 34 - Discussão-H8TTIgWWo8E.mp4",
             "path": "o2/videos/João Gilberto - 34 - Discussão-H8TTIgWWo8E.mp4",
-            "size": 2.754829312,
+            "size": 2.690263,
             "url": "https://github.com/circuitalmynds/music_o2/blob/main/videos/João Gilberto - 34 - Discussão-H8TTIgWWo8E.mp4?raw=true"
         },
         {
+            "id": "qUcHG_HW4nY",
             "name": "Poolside - Shakedown Street-qUcHG_HW4nY.mp4",
             "path": "o2/videos/Poolside - Shakedown Street-qUcHG_HW4nY.mp4",
-            "size": 5.101650944,
+            "size": 4.982081,
             "url": "https://github.com/circuitalmynds/music_o2/blob/main/videos/Poolside - Shakedown Street-qUcHG_HW4nY.mp4?raw=true"
         },
         {
+            "id": "OOuawaUiX8c",
             "name": "Conjunto Primavera - Senti-OOuawaUiX8c.mp4",
             "path": "o2/videos/Conjunto Primavera - Senti-OOuawaUiX8c.mp4",
-            "size": 13.253556224,
+            "size": 12.942926,
             "url": "https://github.com/circuitalmynds/music_o2/blob/main/videos/Conjunto Primavera - Senti-OOuawaUiX8c.mp4?raw=true"
         },
         {
+            "id": "M5r8u7h8y0E",
             "name": "1930 Paul Whiteman - Happy Feet (Rhythm Boys, vocal)-M5r8u7h8y0E.mp4",
             "path": "o2/videos/1930 Paul Whiteman - Happy Feet (Rhythm Boys, vocal)-M5r8u7h8y0E.mp4",
-            "size": 4.56039424,
+            "size": 4.45351,
             "url": "https://github.com/circuitalmynds/music_o2/blob/main/videos/1930 Paul Whiteman - Happy Feet (Rhythm Boys, vocal)-M5r8u7h8y0E.mp4?raw=true"
         },
         {
+            "id": "EmqPOwQVbCM",
             "name": "Al Bowlly Ray Noble - Looking On The Bright Side Of Life 1932-EmqPOwQVbCM.mp4",
             "path": "o2/videos/Al Bowlly Ray Noble - Looking On The Bright Side Of Life 1932-EmqPOwQVbCM.mp4",
-            "size": 3.24450816,
+            "size": 3.168465,
             "url": "https://github.com/circuitalmynds/music_o2/blob/main/videos/Al Bowlly Ray Noble - Looking On The Bright Side Of Life 1932-EmqPOwQVbCM.mp4?raw=true"
         },
         {
+            "id": "DLEzcJREmhE",
             "name": "Bei Mir Bist Du Schoen-DLEzcJREmhE.mp4",
             "path": "o2/videos/Bei Mir Bist Du Schoen-DLEzcJREmhE.mp4",
-            "size": 3.3568276480000003,
+            "size": 3.278152,
             "url": "https://github.com/circuitalmynds/music_o2/blob/main/videos/Bei Mir Bist Du Schoen-DLEzcJREmhE.mp4?raw=true"
         },
         {
+            "id": "MVfgS4zPp9I",
             "name": "João Gilberto - 16 - Este Seu Olhar-MVfgS4zPp9I.mp4",
             "path": "o2/videos/João Gilberto - 16 - Este Seu Olhar-MVfgS4zPp9I.mp4",
-            "size": 3.2052418560000002,
+            "size": 3.1301189999999997,
             "url": "https://github.com/circuitalmynds/music_o2/blob/main/videos/João Gilberto - 16 - Este Seu Olhar-MVfgS4zPp9I.mp4?raw=true"
         },
         {
+            "id": "SSbBvKaM6sk",
             "name": "Blur - Song 2-SSbBvKaM6sk.mp4",
             "path": "o2/videos/Blur - Song 2-SSbBvKaM6sk.mp4",
-            "size": 9.091884032000001,
+            "size": 8.878793,
             "url": "https://github.com/circuitalmynds/music_o2/blob/main/videos/Blur - Song 2-SSbBvKaM6sk.mp4?raw=true"
         },
         {
+            "id": "mVUpKIFHqZk",
             "name": "Patricia JANEČKOVÁ - 'Les oiseaux dans la charmille' (Jacques Offenbach - Les contes d' Hoffmann)-mVUpKIFHqZk.mp4",
             "path": "o2/videos/Patricia JANEČKOVÁ - 'Les oiseaux dans la charmille' (Jacques Offenbach - Les contes d' Hoffmann)-mVUpKIFHqZk.mp4",
-            "size": 37.050863616,
+            "size": 36.182483999999995,
             "url": "https://github.com/circuitalmynds/music_o2/blob/main/videos/Patricia JANEČKOVÁ - 'Les oiseaux dans la charmille' (Jacques Offenbach - Les contes d' Hoffmann)-mVUpKIFHqZk.mp4?raw=true"
         },
         {
+            "id": "nPjvBq_toHI",
+            "name": "Stravinsky - 'The Firebird' for Piano Solo (with Score)-nPjvBq_toHI.mp4",
+            "path": "o2/videos/Stravinsky - 'The Firebird' for Piano Solo (with Score)-nPjvBq_toHI.mp4",
+            "size": 88.475957,
+            "url": "https://github.com/circuitalmynds/music_o2/blob/main/videos/Stravinsky - 'The Firebird' for Piano Solo (with Score)-nPjvBq_toHI.mp4?raw=true"
+        },
+        {
+            "id": "h_h3TQBHrjw",
+            "name": "Los Cadetes de Linares - Mas Enamorado-h_h3TQBHrjw.mp4",
+            "path": "o2/videos/Los Cadetes de Linares - Mas Enamorado-h_h3TQBHrjw.mp4",
+            "size": 4.854119,
+            "url": "https://github.com/circuitalmynds/music_o2/blob/main/videos/Los Cadetes de Linares - Mas Enamorado-h_h3TQBHrjw.mp4?raw=true"
+        },
+        {
+            "id": "uwK2TdyKV8U",
+            "name": "Al Bowlly - All the Best (THE BEST OF JAZZ - FULL ALBUM)-uwK2TdyKV8U.mp4",
+            "path": "o2/videos/Al Bowlly - All the Best (THE BEST OF JAZZ - FULL ALBUM)-uwK2TdyKV8U.mp4",
+            "size": 65.560437,
+            "url": "https://github.com/circuitalmynds/music_o2/blob/main/videos/Al Bowlly - All the Best (THE BEST OF JAZZ - FULL ALBUM)-uwK2TdyKV8U.mp4?raw=true"
+        },
+        {
+            "id": "Q4Fl6HVeesw",
+            "name": "Zirrosis - Cosas ke no arrastre el viento (Full Album 2001)-Q4Fl6HVeesw.mp4",
+            "path": "o2/videos/Zirrosis - Cosas ke no arrastre el viento (Full Album 2001)-Q4Fl6HVeesw.mp4",
+            "size": 93.785167,
+            "url": "https://github.com/circuitalmynds/music_o2/blob/main/videos/Zirrosis - Cosas ke no arrastre el viento (Full Album 2001)-Q4Fl6HVeesw.mp4?raw=true"
+        },
+        {
+            "id": "FT36za3Gyos",
             "name": "Franz Liszt   Hungarian Rhapsody no 2 The Perfect Version-FT36za3Gyos.mp4",
             "path": "o2/videos/Franz Liszt   Hungarian Rhapsody no 2 The Perfect Version-FT36za3Gyos.mp4",
-            "size": 14.072605696,
+            "size": 13.742778999999999,
             "url": "https://github.com/circuitalmynds/music_o2/blob/main/videos/Franz Liszt   Hungarian Rhapsody no 2 The Perfect Version-FT36za3Gyos.mp4?raw=true"
         },
         {
+            "id": "JwY6ZvEQejQ",
+            "name": "Todos Tus Muertos - Alerta Guerrillas (Dale Aborigen 1994)-JwY6ZvEQejQ.mp4",
+            "path": "o2/videos/Todos Tus Muertos - Alerta Guerrillas (Dale Aborigen 1994)-JwY6ZvEQejQ.mp4",
+            "size": 6.184354,
+            "url": "https://github.com/circuitalmynds/music_o2/blob/main/videos/Todos Tus Muertos - Alerta Guerrillas (Dale Aborigen 1994)-JwY6ZvEQejQ.mp4?raw=true"
+        },
+        {
+            "id": "iXF-HRP1KBI",
+            "name": "1932 Ray Noble - Try A Little Tenderness (Val Rosing, vocal)-iXF-HRP1KBI.mp4",
+            "path": "o2/videos/1932 Ray Noble - Try A Little Tenderness (Val Rosing, vocal)-iXF-HRP1KBI.mp4",
+            "size": 4.223561999999999,
+            "url": "https://github.com/circuitalmynds/music_o2/blob/main/videos/1932 Ray Noble - Try A Little Tenderness (Val Rosing, vocal)-iXF-HRP1KBI.mp4?raw=true"
+        },
+        {
+            "id": "3zqfCNU0kVc",
+            "name": "Halina Mickiewiczówna i jej uczennica Irena Jarocka-3zqfCNU0kVc.mp4",
+            "path": "o2/videos/Halina Mickiewiczówna i jej uczennica Irena Jarocka-3zqfCNU0kVc.mp4",
+            "size": 42.630924,
+            "url": "https://github.com/circuitalmynds/music_o2/blob/main/videos/Halina Mickiewiczówna i jej uczennica Irena Jarocka-3zqfCNU0kVc.mp4?raw=true"
+        },
+        {
+            "id": "QrkePCjF-bg",
+            "name": "Juan Arvizu, Colección México #24 (Full Album_Álbum Completo)-QrkePCjF-bg.mp4",
+            "path": "o2/videos/Juan Arvizu, Colección México #24 (Full Album_Álbum Completo)-QrkePCjF-bg.mp4",
+            "size": 53.997335,
+            "url": "https://github.com/circuitalmynds/music_o2/blob/main/videos/Juan Arvizu, Colección México #24 (Full Album_Álbum Completo)-QrkePCjF-bg.mp4?raw=true"
+        },
+        {
+            "id": "-4l19dUl1xI",
+            "name": "Sonata No. 4 in G major (Sonate en sol majeur no 4) , Op. 13 - Presto--4l19dUl1xI.mp4",
+            "path": "o2/videos/Sonata No. 4 in G major (Sonate en sol majeur no 4) , Op. 13 - Presto--4l19dUl1xI.mp4",
+            "size": 5.897164999999999,
+            "url": "https://github.com/circuitalmynds/music_o2/blob/main/videos/Sonata No. 4 in G major (Sonate en sol majeur no 4) , Op. 13 - Presto--4l19dUl1xI.mp4?raw=true"
+        },
+        {
+            "id": "zwhgJddXi9Y",
+            "name": "Donna Summer -   This Time I Know It's For Real (Official Music Video)-zwhgJddXi9Y.mp4",
+            "path": "o2/videos/Donna Summer -   This Time I Know It's For Real (Official Music Video)-zwhgJddXi9Y.mp4",
+            "size": 18.552186,
+            "url": "https://github.com/circuitalmynds/music_o2/blob/main/videos/Donna Summer -   This Time I Know It's For Real (Official Music Video)-zwhgJddXi9Y.mp4?raw=true"
+        },
+        {
+            "id": "ZM5syHyHDYE",
+            "name": "ESTRELLITA DÓNDE ESTÁS canciones infantiles-ZM5syHyHDYE.mp4",
+            "path": "o2/videos/ESTRELLITA DÓNDE ESTÁS canciones infantiles-ZM5syHyHDYE.mp4",
+            "size": 77.09393299999999,
+            "url": "https://github.com/circuitalmynds/music_o2/blob/main/videos/ESTRELLITA DÓNDE ESTÁS canciones infantiles-ZM5syHyHDYE.mp4?raw=true"
+        },
+        {
+            "id": "u4MG_ibE6kk",
+            "name": "Mano Negra - In the Hell of Patchinko (Full Album)-u4MG_ibE6kk.mp4",
+            "path": "o2/videos/Mano Negra - In the Hell of Patchinko (Full Album)-u4MG_ibE6kk.mp4",
+            "size": 82.469973,
+            "url": "https://github.com/circuitalmynds/music_o2/blob/main/videos/Mano Negra - In the Hell of Patchinko (Full Album)-u4MG_ibE6kk.mp4?raw=true"
+        },
+        {
+            "id": "gVkSCuN4dsE",
+            "name": "johnny burnette  my little baby came rockin'-gVkSCuN4dsE.mp4",
+            "path": "o2/videos/johnny burnette  my little baby came rockin'-gVkSCuN4dsE.mp4",
+            "size": 2.327649,
+            "url": "https://github.com/circuitalmynds/music_o2/blob/main/videos/johnny burnette  my little baby came rockin'-gVkSCuN4dsE.mp4?raw=true"
+        },
+        {
+            "id": "weiMpC9xEJw",
+            "name": "Similau → LP A Swingin' Safari (Bert Kaempfert)🍁-weiMpC9xEJw.mp4",
+            "path": "o2/videos/Similau → LP A Swingin' Safari (Bert Kaempfert)🍁-weiMpC9xEJw.mp4",
+            "size": 4.727995,
+            "url": "https://github.com/circuitalmynds/music_o2/blob/main/videos/Similau → LP A Swingin' Safari (Bert Kaempfert)🍁-weiMpC9xEJw.mp4?raw=true"
+        },
+        {
+            "id": "hcl0MELK4j4",
+            "name": "SERRAT MEDITERRÁNEO DISCO COMPLETO.-hcl0MELK4j4.mp4",
+            "path": "o2/videos/SERRAT MEDITERRÁNEO DISCO COMPLETO.-hcl0MELK4j4.mp4",
+            "size": 64.848833,
+            "url": "https://github.com/circuitalmynds/music_o2/blob/main/videos/SERRAT MEDITERRÁNEO DISCO COMPLETO.-hcl0MELK4j4.mp4?raw=true"
+        },
+        {
+            "id": "FvOWOfeBG6M",
+            "name": "Carl Michael Ziehrer - Phonographen, Waltz, op. 423-FvOWOfeBG6M.mp4",
+            "path": "o2/videos/Carl Michael Ziehrer - Phonographen, Waltz, op. 423-FvOWOfeBG6M.mp4",
+            "size": 12.650801,
+            "url": "https://github.com/circuitalmynds/music_o2/blob/main/videos/Carl Michael Ziehrer - Phonographen, Waltz, op. 423-FvOWOfeBG6M.mp4?raw=true"
+        },
+        {
+            "id": "2H5uWRjFsGc",
+            "name": "Chumbawamba - Tubthumping (Official Video)-2H5uWRjFsGc.mp4",
+            "path": "o2/videos/Chumbawamba - Tubthumping (Official Video)-2H5uWRjFsGc.mp4",
+            "size": 18.877122999999997,
+            "url": "https://github.com/circuitalmynds/music_o2/blob/main/videos/Chumbawamba - Tubthumping (Official Video)-2H5uWRjFsGc.mp4?raw=true"
+        },
+        {
+            "id": "cYnUJVZMzP0",
+            "name": "Siniestro Total - Todos los ahorcados mueren empalmados-cYnUJVZMzP0.mp4",
+            "path": "o2/videos/Siniestro Total - Todos los ahorcados mueren empalmados-cYnUJVZMzP0.mp4",
+            "size": 3.088602,
+            "url": "https://github.com/circuitalmynds/music_o2/blob/main/videos/Siniestro Total - Todos los ahorcados mueren empalmados-cYnUJVZMzP0.mp4?raw=true"
+        },
+        {
+            "id": "RR_CdJF_G4E",
+            "name": "Conflict-the serenade is dead (with lyrics)-RR_CdJF_G4E.mp4",
+            "path": "o2/videos/Conflict-the serenade is dead (with lyrics)-RR_CdJF_G4E.mp4",
+            "size": 6.909116,
+            "url": "https://github.com/circuitalmynds/music_o2/blob/main/videos/Conflict-the serenade is dead (with lyrics)-RR_CdJF_G4E.mp4?raw=true"
+        },
+        {
+            "id": "Uizkj0dUhcs",
+            "name": "Martha Argerich _ London Sinfonietta  - Haydn concerto in D-major - Milan 1980 live-Uizkj0dUhcs.mp4",
+            "path": "o2/videos/Martha Argerich _ London Sinfonietta  - Haydn concerto in D-major - Milan 1980 live-Uizkj0dUhcs.mp4",
+            "size": 76.72344799999999,
+            "url": "https://github.com/circuitalmynds/music_o2/blob/main/videos/Martha Argerich _ London Sinfonietta  - Haydn concerto in D-major - Milan 1980 live-Uizkj0dUhcs.mp4?raw=true"
+        },
+        {
+            "id": "IGMnZfgmTaU",
+            "name": "Jean-Baptiste Krumpholz - Harp Sonata, Op. 14, No. 1 (Scene dans le Stile pathétique)-IGMnZfgmTaU.mp4",
+            "path": "o2/videos/Jean-Baptiste Krumpholz - Harp Sonata, Op. 14, No. 1 (Scene dans le Stile pathétique)-IGMnZfgmTaU.mp4",
+            "size": 17.511082,
+            "url": "https://github.com/circuitalmynds/music_o2/blob/main/videos/Jean-Baptiste Krumpholz - Harp Sonata, Op. 14, No. 1 (Scene dans le Stile pathétique)-IGMnZfgmTaU.mp4?raw=true"
+        },
+        {
+            "id": "u3d8ZJrAMNA",
+            "name": "Jan Krumpholtz Symphonie for Harp and Orchestra Op  11 No 1 ,  2 Andante sempre piano-u3d8ZJrAMNA.mp4",
+            "path": "o2/videos/Jan Krumpholtz Symphonie for Harp and Orchestra Op  11 No 1 ,  2 Andante sempre piano-u3d8ZJrAMNA.mp4",
+            "size": 17.470892,
+            "url": "https://github.com/circuitalmynds/music_o2/blob/main/videos/Jan Krumpholtz Symphonie for Harp and Orchestra Op  11 No 1 ,  2 Andante sempre piano-u3d8ZJrAMNA.mp4?raw=true"
+        },
+        {
+            "id": "6wEDTT1akTE",
+            "name": "Weber Biography - Music Collection - Music _ History-6wEDTT1akTE.mp4",
+            "path": "o2/videos/Weber Biography - Music Collection - Music _ History-6wEDTT1akTE.mp4",
+            "size": 75.384484,
+            "url": "https://github.com/circuitalmynds/music_o2/blob/main/videos/Weber Biography - Music Collection - Music _ History-6wEDTT1akTE.mp4?raw=true"
+        },
+        {
+            "id": "WxcxAYjDmsk",
+            "name": "Claude Debussy_Henri Büsser - Petite Suite, L. 65-WxcxAYjDmsk.mp4",
+            "path": "o2/videos/Claude Debussy_Henri Büsser - Petite Suite, L. 65-WxcxAYjDmsk.mp4",
+            "size": 22.289029,
+            "url": "https://github.com/circuitalmynds/music_o2/blob/main/videos/Claude Debussy_Henri Büsser - Petite Suite, L. 65-WxcxAYjDmsk.mp4?raw=true"
+        },
+        {
+            "id": "6ruHDWSNvB8",
+            "name": "Niccolo Paganini -  La campanella-6ruHDWSNvB8.mp4",
+            "path": "o2/videos/Niccolo Paganini -  La campanella-6ruHDWSNvB8.mp4",
+            "size": 8.484584,
+            "url": "https://github.com/circuitalmynds/music_o2/blob/main/videos/Niccolo Paganini -  La campanella-6ruHDWSNvB8.mp4?raw=true"
+        },
+        {
+            "id": "aInAwZJBN_Q",
+            "name": "Alton Ellis - 'The People aka People Quarreling' [Official Audio]-aInAwZJBN_Q.mp4",
+            "path": "o2/videos/Alton Ellis - 'The People aka People Quarreling' [Official Audio]-aInAwZJBN_Q.mp4",
+            "size": 4.3181199999999995,
+            "url": "https://github.com/circuitalmynds/music_o2/blob/main/videos/Alton Ellis - 'The People aka People Quarreling' [Official Audio]-aInAwZJBN_Q.mp4?raw=true"
+        },
+        {
+            "id": "g9SSw6o3sOY",
+            "name": "The Shadows - The Rise And Fall of Flingel Bunt-g9SSw6o3sOY.mp4",
+            "path": "o2/videos/The Shadows - The Rise And Fall of Flingel Bunt-g9SSw6o3sOY.mp4",
+            "size": 5.178204,
+            "url": "https://github.com/circuitalmynds/music_o2/blob/main/videos/The Shadows - The Rise And Fall of Flingel Bunt-g9SSw6o3sOY.mp4?raw=true"
+        },
+        {
+            "id": "6vGX-B9Jo2U",
             "name": "Dave Brubeck - Koto Song-6vGX-B9Jo2U.mp4",
             "path": "o2/videos/Dave Brubeck - Koto Song-6vGX-B9Jo2U.mp4",
-            "size": 24.190701568,
+            "size": 23.623732,
             "url": "https://github.com/circuitalmynds/music_o2/blob/main/videos/Dave Brubeck - Koto Song-6vGX-B9Jo2U.mp4?raw=true"
         }
     ],
     "ready_to_push": true,
-    "total_size": 138.22179123200002
+    "total_size": 1019.4972920000001
 }
