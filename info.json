@@ -2,6 +2,13 @@
     "available_space": false,
     "content": [
         {
+            "id": "6wEDTT1akTE",
+            "name": "Weber Biography - Music _ History-6wEDTT1akTE.mp4",
+            "path": "/home/alanmatzumiya/Videos/containers/o2/videos/Weber Biography - Music _ History-6wEDTT1akTE.mp4",
+            "size": 75.384484,
+            "url": "https://github.com/circuitalmynds/music_o2/blob/main/videos/Weber Biography - Music _ History-6wEDTT1akTE.mp4?raw=true"
+        },
+        {
             "id": "pXa-Zms5uIQ",
             "name": "Stabat Mater - Arjan van Dijk-pXa-Zms5uIQ.mp4",
             "path": "/home/alanmatzumiya/Videos/containers/o2/videos/Stabat Mater - Arjan van Dijk-pXa-Zms5uIQ.mp4",
@@ -56,6 +63,13 @@
             "path": "/home/alanmatzumiya/Videos/containers/o2/videos/Blur - Song 2-SSbBvKaM6sk.mp4",
             "size": 8.878793,
             "url": "https://github.com/circuitalmynds/music_o2/blob/main/videos/Blur - Song 2-SSbBvKaM6sk.mp4?raw=true"
+        },
+        {
+            "id": "2H5uWRjFsGc",
+            "name": "Chumbawamba - Tubthumping (Official Music Video)-2H5uWRjFsGc.mp4",
+            "path": "/home/alanmatzumiya/Videos/containers/o2/videos/Chumbawamba - Tubthumping (Official Music Video)-2H5uWRjFsGc.mp4",
+            "size": 9.21027,
+            "url": "https://github.com/circuitalmynds/music_o2/blob/main/videos/Chumbawamba - Tubthumping (Official Music Video)-2H5uWRjFsGc.mp4?raw=true"
         },
         {
             "id": "mVUpKIFHqZk",
@@ -266,7 +280,14 @@
             "path": "/home/alanmatzumiya/Videos/containers/o2/videos/Dave Brubeck - Koto Song-6vGX-B9Jo2U.mp4",
             "size": 23.623732,
             "url": "https://github.com/circuitalmynds/music_o2/blob/main/videos/Dave Brubeck - Koto Song-6vGX-B9Jo2U.mp4?raw=true"
+        },
+        {
+            "id": "qUcHG_HW4nY",
+            "name": "Poolside – Shakedown Street (Official Music Video)-qUcHG_HW4nY.mp4",
+            "path": "/home/alanmatzumiya/Videos/containers/o2/videos/Poolside – Shakedown Street (Official Music Video)-qUcHG_HW4nY.mp4",
+            "size": 13.696897,
+            "url": "https://github.com/circuitalmynds/music_o2/blob/main/videos/Poolside – Shakedown Street (Official Music Video)-qUcHG_HW4nY.mp4?raw=true"
         }
     ],
-    "total_size": 1006.5543660000002
+    "total_size": 1104.8460169999998
 }
